@@ -1,0 +1,12 @@
+a:king
+b:king
+c:king
+d:king
+e:pawn
+f:pawn
+g:pawn
+h:pawn
+A:protag
+B:friendly_1
+C:friendly_2
+D:stock_friendly

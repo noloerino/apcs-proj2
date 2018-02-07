@@ -1,0 +1,5 @@
+NAME:Stock Enemy
+DESCRIPTION:A typically mindless minion of evil.
+SIDE:ENEMY
+
+SYM_ANIM:true

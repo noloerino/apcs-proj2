@@ -1,0 +1,5 @@
+NAME:Stock Friendly
+DESCRIPTION:A brave and devoted, yet nameless companion of Protag.
+SIDE:FRIENDLY
+
+SYM_ANIM:true

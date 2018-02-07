@@ -1,0 +1,11 @@
+a:stock_enemy_1
+b:stock_enemy_1
+c:stock_enemy_1
+d:stock_enemy_1
+e:stock_enemy_1
+f:stock_enemy_1
+g:stock_enemy_1
+A:protag
+B:friendly_1
+C:friendly_2
+D:stock_friendly

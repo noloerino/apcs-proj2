@@ -1,0 +1,7 @@
+NAME:The Protagonist
+DESCRIPTION:Our brave and enterprising leader.
+SIDE:FRIENDLY
+CLASS:Lord
+SYM_ANIM:false
+IS_MISSION_CRITICAL:true
+WEAPON:RED_LASER_SWORD

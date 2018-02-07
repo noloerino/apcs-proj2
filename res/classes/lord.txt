@@ -1,0 +1,9 @@
+NAME:Lord
+DESCRIPTION:A great leader of great charisma, even though charisma isn’t a stat in this game.
+RANGED:false
+MELEE:true
+RATE_HP:0.6
+RATE_ATK:0.8
+RATE_SPD:0.4
+RATE_DEF:0.3
+RATE_RES:0.4

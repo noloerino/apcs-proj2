@@ -1,0 +1,9 @@
+NAME:Mage
+DESCRIPTION:A magician with magical powers.
+RANGED:true
+MELEE:false
+RATE_HP:0.3
+RATE_ATK:0.96
+RATE_SPD:0.2
+RATE_DEF:0.2
+RATE_RES:0.8

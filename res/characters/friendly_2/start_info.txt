@@ -1,0 +1,7 @@
+NAME:Generic friend #2
+DESCRIPTION:A childhood friend of the protagonist.
+SIDE:FRIENDLY
+CLASS:Mage
+SYM_ANIM:true
+IS_MISSION_CRITICAL:false
+WEAPON:TOME
